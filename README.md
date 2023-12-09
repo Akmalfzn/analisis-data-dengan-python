@@ -1,12 +1,12 @@
 # analisis-data-dengan-python
 Menganalisis data bike rental menggunakan python dan memvisualisasi data pada dashboard menggunakan streamlit
+![Dashboard Penyewaan Sepeda](dashboard.gif)
 
 ## Table of Contents
 - [Overview](#overview)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Data Sources](#data-sources)
 
 ## Overview
 Proyek ini merupakan proyek analisis dan visualisasi data yang berfokus pada data Bike Sharing. Ini mencakup kode untuk perselisihan data, analisis data eksplorasi (EDA), dan dasbor Streamlit untuk eksplorasi data interaktif. Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset.
@@ -34,15 +34,12 @@ pip install -r requirements.txt
 ## Usage
 1. **Data Wrangling**: Data wrangling scripts are available in the `notebook.ipynb` file to prepare and clean the data.
 
-2. **Exploratory Data Analysis (EDA)**: Explore and analyze the data using the provided Python scripts. EDA insights can guide your understanding of e-commerce public data patterns.
+2. **Exploratory Data Analysis (EDA)**: Explore and analyze the data using the provided Python scripts. EDA insights can guide your understanding of Bike Sharing Dataset data patterns.
 
 3. **Visualization**: Run the Streamlit dashboard for interactive data exploration:
 
 ```
-cd data-analyst-dicoding/dashboard
+cd analisis-data-dengan-python/dashboard
 streamlit run dashboard.py
 ```
 Access the dashboard in your web browser at `http://localhost:8501`.
-
-## Data Sources
-The project uses E-Commerce Public Dataset from [Belajar Analisis Data dengan Python's Final Project](https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view) offered by [Dicoding](https://www.dicoding.com/).
