@@ -1,6 +1,6 @@
 # analisis-data-dengan-python
 Menganalisis data bike rental menggunakan python dan memvisualisasi data pada dashboard menggunakan streamlit
-![Dashboard Penyewaan Sepeda](dashboard.gif)
+![Dashboard Penyewaan Sepeda](Screenshot\screenshot 1.PNG)
 
 ## Table of Contents
 - [Overview](#overview)
